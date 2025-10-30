@@ -35,14 +35,14 @@ Es texto plano y se puede leer fácilmente con cat, grep, less, etc.
 Oct 30 12:45:33 server sshd[1234]: Accepted password for alice from 10.0.0.5 port 50322 ssh2
 
 ### 🧠Campos principales:
-Campo	Descripción
-Fecha y hora	**Oct 30 12:45:33**
-Host	**server**
-Proceso y PID	**sshd[1234]**
-Tipo de evento	**Accepted password, Failed password, sudo, etc.**
-Usuario afectado	**alice**
-IP origen	**10.0.0.5**
-Puerto / protocolo	**port 50322 ssh2**
+Campo	y Descripción
+- Fecha y hora	**Oct 30 12:45:33**
+- Host	**server**
+- Proceso y PID	**sshd[1234]**
+- Tipo de evento	**Accepted password, Failed password, sudo, etc.**
+- Usuario afectado	**alice**
+- IP origen	**10.0.0.5**
+- Puerto / protocolo	**port 50322 ssh2**
 
 📂 ## wtmp
 
