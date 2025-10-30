@@ -44,7 +44,7 @@ Campo	y Descripción
 - IP origen	**10.0.0.5**
 - Puerto / protocolo	**port 50322 ssh2**
 
-📂 ## wtmp
+## 📂wtmp
 
 El archivo /var/log/wtmp guarda un historial binario de inicios y cierres de sesión.
 A diferencia de auth.log, no es texto legible, y se consulta con comandos como last - f
